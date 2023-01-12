@@ -22,11 +22,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Resource Group
+- Virtual Machine
+- Remote Desktop Connection
+- Internet Information Services (iis)
+- osTicket
 
 <h2>Configuration Steps</h2>
 
