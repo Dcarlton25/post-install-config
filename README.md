@@ -31,7 +31,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/9AYeN8s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
-To begin this section of the lab you will need to log into osTicket and make sure you are on the admin panel, which can be toggled near the top right corner of the screen. Next, you will need to click "agents", then "roles", and then click "add new roles". Once you have done that, give your new role a name, then click "permissions", give your new role access to all the permissions and click "add role". Now you have created a role for osTicket. Examples above.
+To begin this section of the lab you will need to log into osTicket and make sure you are on the admin panel, which can be toggled near the top right corner of the screen. Next, you will need to click "agents", then "roles", and then click "add new roles". Once you have done that, give your new role a name, then click "permissions", and check all the boxes, then click "tasks" and check all the boxes, then click "knowledgebase" and check the box", and finally click "add role". Now you have created a role for osTicket. Examples above.
 </p>
 <br />
 
