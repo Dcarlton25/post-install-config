@@ -36,17 +36,17 @@ To begin this section of the lab you will need to log into osTicket and make sur
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dLitOD0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will be creating a Department in osTicket. First, you will need to make sure you are on the admin panel, then click "agents", then click "departments", and then click "add new new department". After that, give your new department a name, then give your department a manager, and then click "create department". Now you have created a department for osTicket. Example above.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XUwy8Tq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After that, we will be creating a Team in osTicket. First, you will need to make sure you are on the admin panel, then click "agents", then click "teams", and then click "add new team". Now give your new team a name, then toggle "members" and select a team member, and then click "create team". Now you have created a team in osTicket. Example above.
 </p>
 <br />
