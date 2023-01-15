@@ -50,3 +50,9 @@ Next, we will be creating a Department in osTicket. First, you will need to make
 After that, we will be creating a Team in osTicket. First, you will need to make sure you are on the admin panel, then click "agents", then click "teams", and then click "add new team". Now give your new team a name, then toggle "members" and select a team member, and then click "create team". Now you have created a team in osTicket. Example above.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/NWuCBsf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will be adding agents in osTicket. First, make sure you are on the admin panel, then click "agents", then click "agents" underneath the agents tab, and then click "add new agent". After that, give your agent a first as well as a last name, then give your agent an email address, then give your agent a username, then click "set password", after that uncheck the box "send the agent a password reset email", then set a new password for your agent, then click "set". Next, toggle "access", then click "select department" and select the department you created. Next, click "select role" and select the role that you created. After that, toggle "teams", then click selec team" and select the team that you created, then click "create". You will need to create two agents so repeat all the previous steps, except for this second agent you will need to select "support" for department and "view only" for role. Now you have created two agents in osTicket. Examples above.
