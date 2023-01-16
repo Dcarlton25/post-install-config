@@ -55,4 +55,20 @@ After that, we will be creating a Team in osTicket. First, you will need to make
 <img src="https://i.imgur.com/NWuCBsf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next, we will be adding agents in osTicket. First, make sure you are on the admin panel, then click "agents", then click "agents" underneath the agents tab, and then click "add new agent". After that, give your agent a first as well as a last name, then give your agent an email address, then give your agent a username, then click "set password", after that uncheck the box "send the agent a password reset email", then set a new password for your agent, then click "set". Next, toggle "access", then click "select department" and select the department you created. Next, click "select role" and select the role that you created. After that, toggle "teams", then click selec team" and select the team that you created, then click "create". You will need to create two agents so repeat all the previous steps, except for this second agent you will need to select "support" for department and "view only" for role. Now you have created two agents in osTicket. Examples above.
+Next, we will be adding agents in osTicket. First, make sure you are on the admin panel, then click "agents", then click "agents" underneath the agents tab, and then click "add new agent". After that, give your agent a first as well as a last name, then give your agent an email address, then give your agent a username, then click "set password", after that uncheck the box "send the agent a password reset email", then set a new password for your agent, then click "set". Next, toggle "access", then click "select department" and select the department you created. Next, click "select role" and select the role that you created. After that, toggle "teams", then click "select team" and select the team that you created, then click "create". You will need to create two agents so repeat all the previous steps, except for this second agent you will need to select "support" for department and "view only" for role. Now you have created two agents in osTicket. Examples above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/2HxxjjW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will  be adding users for osTicket. First, you will need to switch over to the agent panel, then click "users", and then click "add users". Next, give your new user an email address, then provide a full name for your new user, and then click "add user". You will need two users for this lab so repeat the previous steps for your second user. Now you have created two users for osTicket. Examples above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/eEXoOO5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next, we will be making Service-Level Agreements (SLAs) for osTicket. First, you will need to go back to the admin panel, then click "manage", then click "SLA, and then click "add new SLA plan". Next, you will need to name your SLA plan "SEV-A", then give your new SLA plan a grace period of 1 hour, then choose a 24/7 time schedule for your new SLA plan, and then click "add plan". After that, click "add new SLA plan" again, then name your new SLA plan "SEV-B", then give your new SLA plan a grace period of 4 hours, then give your new SLA plan a 24/7 time schedule, and then click "add plan". Finally, you will need to click "add new SLA plan" once more, then name your new SLA plan "SEV-C", then give your new SLA plan a grace period of 8 hours, then give your SLA plan a "Monday - Friday 8am - 5 pm with U.S. Holidays" schedule, and then click "add plan". Now you have created 3 SLA plans. Example above.
