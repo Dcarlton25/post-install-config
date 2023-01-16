@@ -72,3 +72,9 @@ Next, we will  be adding users for osTicket. First, you will need to switch over
 </p>
 <p>
 Next, we will be making Service-Level Agreements (SLAs) for osTicket. First, you will need to go back to the admin panel, then click "manage", then click "SLA, and then click "add new SLA plan". Next, you will need to name your SLA plan "SEV-A", then give your new SLA plan a grace period of 1 hour, then choose a 24/7 time schedule for your new SLA plan, and then click "add plan". After that, click "add new SLA plan" again, then name your new SLA plan "SEV-B", then give your new SLA plan a grace period of 4 hours, then give your new SLA plan a 24/7 time schedule, and then click "add plan". Finally, you will need to click "add new SLA plan" once more, then name your new SLA plan "SEV-C", then give your new SLA plan a grace period of 8 hours, then give your SLA plan a "Monday - Friday 8am - 5 pm with U.S. Holidays" schedule, and then click "add plan". Now you have created 3 SLA plans. Example above.
+</p>
+<br />
+<img src="https://i.imgur.com/kDSvScq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+ Next, we will be creating help topics for osTicket. First, you will need to make sure you are on the admin panel, then click "manage", then click "help topics", and then click "add new help topic". After that, name your first help topic "Business Critical Outage, and then click "add topic". Next, you will need to add 3 more help topics, name the second "Personal Computer Issues", name the third "Equipment Request", and name the fourth "Password Reset". Now you have created help topicd for osTicket. Examples above.
